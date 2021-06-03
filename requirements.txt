@@ -1,38 +1,14 @@
-appnope @ file:///opt/concourse/worker/volumes/live/0291c9e1-4b15-459f-623e-2770f55be269/volume/appnope_1594338395037/work
-backcall==0.2.0
-certifi==2020.12.5
+certifi==2021.5.30
 chardet==4.0.0
-decorator==4.4.2
 idna==2.10
-ipykernel @ file:///opt/concourse/worker/volumes/live/88f541d3-5a27-498f-7391-f2e50ca36560/volume/ipykernel_1596206680118/work/dist/ipykernel-5.3.4-py3-none-any.whl
-ipython @ file:///opt/concourse/worker/volumes/live/90527372-a5f7-4d48-68c2-a99de2ba31c7/volume/ipython_1599056199422/work
-ipython-genutils==0.2.0
-jedi @ file:///opt/concourse/worker/volumes/live/c63c70ef-654a-4d26-6b78-37aef096f225/volume/jedi_1596490811751/work
-jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
-jupyter-core==4.6.3
-mkl-fft==1.2.0
-mkl-random==1.1.1
-mkl-service==2.3.0
-numpy @ file:///opt/concourse/worker/volumes/live/5572694e-967a-4c0c-52cf-b53d43e72de9/volume/numpy_and_numpy_base_1603491881791/work
-pandas==1.2.1
-parso==0.7.0
-pexpect @ file:///opt/concourse/worker/volumes/live/8701bb20-ad87-46c7-5108-30c178cf97e5/volume/pexpect_1594383388344/work
-pickleshare @ file:///opt/concourse/worker/volumes/live/93ec39d8-05bb-4f84-7efc-98735bc39b70/volume/pickleshare_1594384101884/work
-praw==7.1.0
-prawcore==1.5.0
-prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
-ptyprocess==0.6.0
-Pygments @ file:///tmp/build/80754af9/pygments_1600458456400/work
-PyJWT==1.7.1
+numpy==1.20.3
+pandas==1.2.4
+praw==7.2.0
+prawcore==2.0.0
 python-dateutil==2.8.1
-pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
-pyzmq==19.0.2
+pytz==2021.1
 requests==2.25.1
-six==1.15.0
-tornado==6.0.4
-traitlets @ file:///tmp/build/80754af9/traitlets_1602787416690/work
-twilio==6.51.1
+six==1.16.0
 update-checker==0.18.0
-urllib3==1.26.3
-wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
-websocket-client==0.57.0
+urllib3==1.26.5
+websocket-client==1.0.1
