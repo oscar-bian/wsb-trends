@@ -1,4 +1,4 @@
-# Stonksinsights 
+# WSB trends
 
 This notebook utilises the Python Reddit wrapper to extract comments from the
 hotest threads on the subreddit r/wallstreetbets, and a basic processing
